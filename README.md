@@ -55,3 +55,11 @@ The analysis uses 190 issues collected from the GitHub API. This is a limited sa
 
 ## Skills Demonstrated
 Python, Pandas, REST APIs, SQL, SQLite, data cleaning, exploratory data analysis, KPI analysis, and Power BI dashboard development.
+
+## Power BI Dashboard
+
+### Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)
+
+### Insights & Analysis
+![Insights and Analysis](dashboard-insights.png)
